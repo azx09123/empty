@@ -1,1 +1,2 @@
-printf("test3");
+prtf("test3");
+include <stdio.h>
